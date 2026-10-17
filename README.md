@@ -1,5 +1,7 @@
 # Usagi Engine 新手教程
 
+> 📖 在线阅读（排版更好）：<https://9nekocat.github.io/usagi-guide/>
+
 > 面向：完全没做过游戏、或者只写过一点代码的人。
 > 依据：官网文档 <https://usagiengine.com/>（当前版本 v1.3.3）与官方书《Game Programming with Usagi》<https://book.usagiengine.com/>。
 > 读完你能做到：装好引擎 → 跑起第一个项目 → 看懂并改写一个能玩的小游戏 → 加音效和存档 → 导出成网页发给朋友。
